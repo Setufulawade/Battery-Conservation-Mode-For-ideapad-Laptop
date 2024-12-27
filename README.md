@@ -20,12 +20,10 @@ This Bash script allows users to manage the battery conservation mode on Lenovo 
 1. **Clone or Download the Script**:
    ```bash
    git clone https://github.com/your-username/battery-conservation-manager.git
-
-
-#HOW TO USE
-1. **Download the Script:**
+   
+2. **Download the Script:**
    Download conservation.sh to your desired location.
-2. **Get the Current Location**
+3. **Get the Current Location**
    Open a terminal and run the following command to get the path of your current location:
    ```sh
    pwd
@@ -33,7 +31,7 @@ This Bash script allows users to manage the battery conservation mode on Lenovo 
    Create a system link to make the script easily accessible:
    ```sh
    sudo ln -s /path/to/conservation.sh /usr/local/bin/battery-conservation
-6. **Run the Command**
+5. **Run the Command**
     You can now switch between modes by running the following command in your terminal:
    ```sh
    battery-conservation
