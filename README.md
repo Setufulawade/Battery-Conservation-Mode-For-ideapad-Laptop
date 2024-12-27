@@ -1,5 +1,26 @@
-# Battery-Conservation-Mode-For-ideapad-Laptop
-this script lets you switch between conservation mode and charging mode on linux for lenovo ideapad gaming 3
+# Battery Conservation Mode Manager
+
+![Bash](https://img.shields.io/badge/Bash-Script-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+
+## 📖 Overview
+This Bash script allows users to manage the battery conservation mode on Lenovo IdeaPad laptops. Conservation mode helps preserve battery health by limiting the maximum charge to 60% when enabled.
+
+---
+
+## 🛠️ Features
+- **Check Current Mode**: Detects if conservation mode is enabled or disabled.
+- **Enable Conservation Mode**: Limits battery charge to 60%.
+- **Disable Conservation Mode**: Allows the battery to charge fully.
+- **Interactive User Prompt**: Offers easy options to enable, disable, or keep the current mode.
+
+---
+
+## 🚀 Usage
+1. **Clone or Download the Script**:
+   ```bash
+   git clone https://github.com/your-username/battery-conservation-manager.git
+
 
 #HOW TO USE
 1. **Download the Script:**
